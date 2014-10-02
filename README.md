@@ -1,0 +1,4 @@
+exercises
+=========
+
+Simplified blackjack solution
